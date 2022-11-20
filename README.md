@@ -6,6 +6,8 @@ in one main folder and run "docker-compose up" in the destination folder, after 
 To run the App without docker go to both folders on your terminal and run "npm install" then "npm start" 
 The app should run on your browser after installing dependencies.
 
+To make sure that all versions will be same as I used on that project u can also run 'docker pull konektive/mongo-db' to download and run both images by docker. 
+
 ## Available Scripts
 
 In the project directory, you can run:
